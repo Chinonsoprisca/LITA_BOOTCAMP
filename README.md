@@ -1,8 +1,24 @@
 # LITA_BOOTCAMP
 
 This is the documentation of my first Data Analysis Bootcamp experience
+## Project Title
 
-### Overview
+[Project Overview](#project-overview)
+
+[Data Source](#data-source)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+
+### Project Overview
 ---
 ### Data Source
 ---
@@ -23,7 +39,7 @@ This is the documentation of my first Data Analysis Bootcamp experience
 2. Handling missing variables
 3. Data Cleaning and Formatting
 
-### Eporatory Data Analysis
+### Exploratory Data Analysis
 ---
 .....................................
 - What is the ovarall sales trend
@@ -38,3 +54,10 @@ This is the documentation of my first Data Analysis Bootcamp experience
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+### Data Visualization
+
+
+
+|Heading1|Heading2|Heading3|
+|--------|--------|--------|
+|Table1|Table2|Table3|
