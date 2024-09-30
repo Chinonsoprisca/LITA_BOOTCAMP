@@ -2,6 +2,11 @@
 
 This is the documentation of my first Data Analysis Bootcamp experience
 
-## preview
+## Preview
 
-### data source
+### Data Source
+
+### Tools Used
+Microsoft Excel for Data Cleaning, Analysis and Visualization
+SQL - Structured Query Lnaguage for quering of Data
+Github for Portfolio Building
