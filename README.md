@@ -2,6 +2,7 @@
 
 This is the documentation of my first Data Analysis Bootcamp experience
 ## Project Title
+DATA ANALYSIS
 
 [Project Overview](#project-overview)
 
@@ -20,6 +21,7 @@ This is the documentation of my first Data Analysis Bootcamp experience
 
 ### Project Overview
 ---
+Data Analysis involves collecting
 ### Data Source
 ---
 ### Tools Used
